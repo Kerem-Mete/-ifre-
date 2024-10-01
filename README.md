@@ -1,0 +1,2 @@
+# -ifre-
+Rasgele şifre kullanıcaksan
